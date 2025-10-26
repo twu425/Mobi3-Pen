@@ -14,7 +14,7 @@ Build of Materials:
 | -------------- | ------------- | -------------- | ------------- |
 | Pi Pico | 1 | [Raspberry Pi Vendor](https://www.raspberrypi.com/products/raspberry-pi-pico) | Any Pi Pico (H, W, 2) should work. |
 | Silicone Tinned Copper Wire, 30AWG | A few meters | Amazon, Walmart, Adafruit | You can use any wire, but it needs to be flexible. Higher AWG number = Thinner, more flexible. Silicone is more flexible than plastic. |
-| 608 Ball Bearing | Quantity | Amazon, Bike Shops | Dimensions: 8mm x 22mm x 7mm. |
+| 608 Ball Bearing | 3 | Amazon, Bike Shops | Dimensions: 8mm x 22mm x 7mm. |
 
 Tools:
 | Tool | Notes |
