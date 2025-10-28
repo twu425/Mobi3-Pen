@@ -3,7 +3,7 @@ The Mobi3-Pen was designed to be as simple as possible, using hardware that make
 
 The pen clasifies itself as a custom HID device, meaning that you'll need to program in device support to any software you wish to use it with. Check out [Mobi3-Pen-HIDReader](https://github.com/twu425/Mobi3-Pen-HIDReader) for an example using python. 
 
-*Still a work in progress, build instructions will be added later!*
+*Still a work in progress, build instructions will be added soon-ish!*
 
 ![alt text](Photo.jpg)
 ![alt text](Render.png)
@@ -23,7 +23,7 @@ The pen clasifies itself as a custom HID device, meaning that you'll need to pro
 | Microswitch | 3 | Amazon, Salvaged from old mice | The kind used in mice. Remove the switch arms if they have them. |
 | A5400 Sensor Breakout Board w/ Magnet | 3 | [Amazon](https://a.co/d/0WISSSe) | **Ensure magnets are 5mmx2mm and diametrically magnetized.** |
 | M3x6mm Screw | 8 | Amazon, Hardware Stores | |
-| Micro-Usb Cable | 1 | | |
+| Micro-Usb Cable | 1 | Pretty much anywhere| A long, flexible one is preferred but not required. |
 
 ## Related Repositories:
 | Repository     | Link    |
