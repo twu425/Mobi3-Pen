@@ -25,6 +25,8 @@ The pen clasifies itself as a custom HID device, meaning that you'll need to pro
 | M3x6mm Screw | 8 | Amazon, Hardware Stores | |
 | Micro-Usb Cable | 1 | Pretty much anywhere| A long, flexible one is preferred but not required. |
 
+Models are made in the open-source FreeCad (get it here: https://www.freecad.org/) and are included in this repository if you wish the modify the design.
+
 ## Related Repositories:
 | Repository     | Link    |
 | -------------- | ------------- |
